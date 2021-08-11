@@ -7,9 +7,10 @@ Saya seorang karyawan di perusahaan swasta tapi berhenti karena pandemi.
 Saya suka dengan teknologi karena itu saya belajar di [Dicoding](https://www.dicoding.com/).\
 
 Di Dicoding saya sudah belajar :
+==
 **Belajar Pemrograman Web Dasar**  
 **Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)-Program Beasiswa**
-**Architecting on Aws (Membangun Arsitektur Cloud di AWS) - Program Beasiswa**(https://www.dicoding.com/sertifikat_course/ERZR5524QPYV)
+**Architecting on Aws (Membangun Arsitektur Cloud di AWS) - Program Beasiswa**
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun GitHub aku ya.
 
