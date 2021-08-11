@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @greth7580
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 
+# Halo semua! 
+
+Perkenalkan nama saya **Lusianna Manurung**.\
+
+Saya seorang karyawan di perusahaan swasta tapi berhenti karena pandemi. 
+Saya suka dengan teknologi karena itu saya belajar di Dicoding  [Dicoding](https://www.dicoding.com/).\
+
+Di Dicoding saya sudah belajar :
+**Belajar Pemrograman Web Dasar**  
+**Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)-Program Beasiswa**
+**Architecting on Aws (Membangun Arsitektur Cloud di AWS) - Program Beasiswa**(https://www.dicoding.com/sertifikat_course_266_1118199_200721115633.pdf/)
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun GitHub aku ya.
 
 <!---
 greth7580/greth7580 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
